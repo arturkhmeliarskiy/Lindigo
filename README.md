@@ -1,2 +1,2 @@
 # Лингвист
-# https://arturkhmeliarskiy.github.io/Lindigo/
+# https://arturkhmeliarskiy.github.io/Lingusit/
